@@ -1,0 +1,25 @@
+div {
+    background-color: rgb(98, 167, 144);
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.navbar {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.main {
+    padding: 100px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.intro {
+    display: flex;
+    justify-content: flex-end;
+}
